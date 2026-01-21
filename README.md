@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱I am Deekshithaa Y M, currently pursuing my bachelors in Data Science from PSGR Krishnammal College for Women.
 
-👩🏻‍💼I love to understand the story behind data. Combining coding skills with mathematical knowledge to derive meaningful insights is what I am passionate about. Hence, my choice of my UG degree.
+👩🏻‍💼I love to understand the story behind data. Combining coding skills with mathematical knowledge to derive meaningful insights is what I am passionate about. Hence, the choice of my UG degree.
 
 💻I code in Python and it's libraries which are Numpy, Pandas, Matplotlib and Seaborn. I am also skilled in Excel, Tableau and SPSS software. I aam good with data cleaning, web scraping, data analysis, data manipulation and data visualization.
 

@@ -1,5 +1,3 @@
-## Hello! Welcome to my personal repository👋
-
 <!--
 **Deekshithaa-Y-M/Deekshithaa-Y-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱I am Deekshithaa Y M, currently pursuing my bachelors in Data Science from PSGR Krishnammal College for Women.
+# Hello! Welcome to my digital workspace 👋
 
-👩🏻‍💼I love to understand the story behind data. Combining coding skills with mathematical knowledge to derive meaningful insights is what I am passionate about. Hence, the choice of my UG degree.
+I am **Deekshithaa Y M**, a Data Science undergraduate at PSGR Krishnammal College for Women. 
 
-💻I code in Python and it's libraries which are Numpy, Pandas, Matplotlib and Seaborn. I am also skilled in Excel, Power BI, Tableau and SPSS software. I am good with data cleaning, web scraping, data analysis, data manipulation and data visualization.
+I don't just write code; I look for the story behind the data. I am passionate about bridging the gap between raw datasets and strategic business decisions using Python, advanced visualization, and machine learning. 
 
-👩🏻‍💻Currently, I am learning SQL and Machine Learning.
+### 🚀 What I am up to right now:
+* 🎓 **Studying:** B.Sc. in Data Science (Expected April 2027)
+* 💡 **Building:** Real-world data pipelines, predictive models, and business intelligence dashboards.
+* 🌱 **Exploring:** Machine Learning algorithms, Data Engineering concepts (MongoDB, SQL), and Generative AI. 
+* 🤝 **Looking for:** Data Science, Analytics, or AI-focused summer internships for **Summer 2026**.
 
-📊I would love to collaborate on data projects.
+### 🛠️ My Tech Stack:
+* **Programming & Analysis:** Python (Pandas, NumPy), Web Scraping, Data Manipulation
+* **Data Visualization & BI:** Microsoft Power BI (**PL-300 Certified**), Tableau, Matplotlib, Seaborn, Excel
+* **Database Management:** SQL, MongoDB 
+* **Statistics & ML:** Bayesian Statistics, Linear Algebra, Predictive Modeling, Probability Concepts
+* **Cloud & AI Exposure:** Snowflake, AWS, Retrieval-Augmented Generation (RAG)
 
-✉️You can reach out to me at - deekshithaaym@gmail.com Looking forward to discuss about internship opportunities or anything related to data, AI or tech news. Meet you there🙋🏻‍♀️
+### 📫 Let's Connect!
+I am always open to collaborating on data projects, discussing tech news, or exploring internship opportunities.
+* **Email:** deekshithaaym@gmail.com
+* **LinkedIn:** www.linkedin.com/in/deekshithaaym
+
+_"Turning complex data into clear, actionable insights."_ 📊

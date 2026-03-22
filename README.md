@@ -22,7 +22,7 @@ I don't just write code; I look for the story behind the data. I am passionate a
 * 🎓 **Studying:** B.Sc. in Data Science (Expected April 2027)
 * 💡 **Building:** Real-world data pipelines, predictive models, and business intelligence dashboards.
 * 🌱 **Exploring:** Machine Learning algorithms, Data Engineering concepts (MongoDB, SQL), and Generative AI. 
-* 🤝 **Looking for:** Data Science, Analytics, or AI-focused summer internships for **Summer 2026**.
+* 🤝 **Looking for:** Data Science, Analytics, or ML-focused summer internships for **Summer 2026**.
 
 ### 🛠️ My Tech Stack:
 * **Programming & Analysis:** Python (Pandas, NumPy), Web Scraping, Data Manipulation

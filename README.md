@@ -18,13 +18,13 @@ I am **Deekshithaa Y M**, a Data Science undergraduate at PSGR Krishnammal Colle
 
 I don't just write code; I look for the story behind the data. I am passionate about bridging the gap between raw datasets and strategic business decisions using Python, advanced visualization, and machine learning. 
 
-### 🚀 What I am up to right now:
-* 🎓 **Studying:** B.Sc. in Data Science (Expected April 2027)
-* 💡 **Building:** Real-world data pipelines, predictive models, and business intelligence dashboards.
-* 🌱 **Exploring:** Machine Learning algorithms, Data Engineering concepts, and Generative AI. 
-* 🤝 **Looking for:** Data Science, Analytics, or ML-focused internships.
+###  What I am up to right now:
+*  **Studying:** B.Sc. in Data Science (Expected April 2027)
+*  **Building:** Real-world data pipelines, predictive models, and business intelligence dashboards.
+*  **Exploring:** Machine Learning algorithms, Data Engineering concepts, and Generative AI. 
+*  **Looking for:** Data Science, Analytics, or ML-focused internships.
 
-### 🛠️ My Tech Stack:
+###  My Tech Stack:
 * **Programming & Analysis:** Python (Pandas, NumPy), Web Scraping, Data Manipulation
 * **Data Visualization & BI:** Microsoft Power BI (**PL-300 Certified**), Tableau, Matplotlib, Seaborn, Excel
 * **Database Management:** SQL, MongoDB 
@@ -32,7 +32,7 @@ I don't just write code; I look for the story behind the data. I am passionate a
 * **Cloud & AI Exposure:** Snowflake, AWS, Retrieval-Augmented Generation (RAG) , LLM
 * **Big Data:** Hadoop , Apache Spark
 
-### 📫 Let's Connect!
+###  Let's Connect!
 I am always open to collaborating on data projects, discussing tech news, or exploring internship opportunities.
 * **Email:** deekshithaaym@gmail.com
 * **LinkedIn:** www.linkedin.com/in/deekshithaaym

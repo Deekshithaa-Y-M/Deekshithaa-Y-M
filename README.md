@@ -29,8 +29,8 @@ I don't just write code; I look for the story behind the data. I am passionate a
 * **Data Visualization & BI:** Microsoft Power BI (**PL-300 Certified**), Tableau, Matplotlib, Seaborn, Excel
 * **Database Management:** SQL, MongoDB 
 * **Statistics & ML:** Bayesian Statistics, Linear Algebra, Predictive Modeling, Probability Concepts, Exploratory Data Analysis
-* **Cloud & AI Exposure:** Snowflake, AWS, Retrieval-Augmented Generation (RAG) , LLM
-* **Big Data:** Hadoop , Apache Spark
+* **Cloud & AI Exposure:**  AWS, Retrieval-Augmented Generation (RAG) , LLM
+* **Big Data:** Hadoop , Apache Spark , Snowflake
 
 ###  Let's Connect!
 I am always open to collaborating on data projects, discussing tech news, or exploring internship opportunities.

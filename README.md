@@ -66,12 +66,4 @@ I don't just write code; I look for the story behind the data. I am passionate a
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
-
-## Let’s Connect!
-
-I am always open to collaborating on data projects, discussing tech news, or exploring internship opportunities.
-
-- **Email:** [deekshithaaym@gmail.com](mailto:deekshithaaym@gmail.com)
-- **LinkedIn:** [linkedin.com/in/deekshithaaym](https://www.linkedin.com/in/deekshithaaym)
-
 > *Turning complex data into clear, actionable insights.* 📊

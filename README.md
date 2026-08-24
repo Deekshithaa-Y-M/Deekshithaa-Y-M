@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Hello! Welcome to my digital workspace 👋
+-->
+# Hello! Welcome to my digital workspace 👋
 
 I am **Deekshithaa Y M**, a **Data Science undergraduate** at **PSGR Krishnammal College for Women**.
 

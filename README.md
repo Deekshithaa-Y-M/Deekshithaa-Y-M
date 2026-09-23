@@ -36,16 +36,17 @@ I don't just write code; I look for the story behind the data. I am passionate a
   <img src="https://cdn.simpleicons.org/python" height="28" alt="Python" title="Python" />&nbsp;
   <img src="https://cdn.simpleicons.org/pandas" height="28" alt="Pandas" title="Pandas" />&nbsp;
   <img src="https://cdn.simpleicons.org/numpy" height="28" alt="NumPy" title="NumPy" />&nbsp;
-  <img src="https://cdn.simpleicons.org/selenium" height="28" alt="Web Scraping (Selenium)" title="Web Scraping (Selenium)" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="28" alt="scikit-learn" title="scikit-learn" />&nbsp;
+  <img src="https://cdn.simpleicons.org/selenium" height="28" alt="Web Scraping (Selenium)" title="Web Scraping (Selenium)" />&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
 </p>
 
 ### Data Visualization & BI
 <p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi" height="28" alt="Power BI" title="Power BI" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" height="28" alt="Tableau" title="Tableau" />&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" height="28" alt="Power BI" title="Power BI" />&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="28" alt="Tableau" title="Tableau" />&nbsp;
   <img src="https://cdn.simpleicons.org/matplotlib" height="28" alt="Matplotlib" title="Matplotlib" />&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-5A6BE5?style=for-the-badge" height="28" alt="Seaborn" />&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
+  <img src="https://miro.medium.com/0*0ObKQQmRcgMdKrXp.png" height="28" alt="Seaborn" title="Seaborn" />
 </p>
 
 ### Database Management

@@ -32,38 +32,28 @@ I don't just write code; I look for the story behind the data. I am passionate a
 ## My Tech Stack
 
 ### Programming & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-2E8B57?style=for-the-badge&logo=selenium&logoColor=white)
+<img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" />
+<img src="https://cdn.simpleicons.org/pandas" height="40" alt="Pandas" title="Pandas" />
+<img src="https://cdn.simpleicons.org/numpy" height="40" alt="NumPy" title="NumPy" />
+<img src="https://cdn.simpleicons.org/selenium" height="40" alt="Web Scraping (Selenium)" title="Web Scraping (Selenium)" />
 
 ### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A6BE5?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://cdn.simpleicons.org/powerbi" height="40" alt="Power BI" title="Power BI" />
+<img src="https://cdn.simpleicons.org/tableau" height="40" alt="Tableau" title="Tableau" />
+<img src="https://cdn.simpleicons.org/matplotlib" height="40" alt="Matplotlib" title="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-5A6BE5?style=for-the-badge" height="28" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
 
 ### Database Management
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Statistics & ML
-![Bayesian Statistics](https://img.shields.io/badge/Bayesian%20Statistics-4B0082?style=for-the-badge)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-6A5ACD?style=for-the-badge)
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-008080?style=for-the-badge)
-![Probability Concepts](https://img.shields.io/badge/Probability%20Concepts-1E90FF?style=for-the-badge)
-![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-FF6F61?style=for-the-badge)
+<img src="https://cdn.simpleicons.org/postgresql" height="40" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" />
+<img src="https://cdn.simpleicons.org/mongodb" height="40" alt="MongoDB" title="MongoDB" />
 
 ### Cloud & AI Exposure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-111827?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS" />
 
 ### Big Data
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
+<img src="https://cdn.simpleicons.org/apachehadoop" height="40" alt="Hadoop" title="Hadoop" />
+<img src="https://cdn.simpleicons.org/apachespark" height="40" alt="Apache Spark" title="Apache Spark" />
+<img src="https://cdn.simpleicons.org/snowflake" height="40" alt="Snowflake" title="Snowflake" />
 ---
 > *Turning complex data into clear, actionable insights.* 📊

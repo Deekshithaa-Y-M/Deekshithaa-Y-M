@@ -46,7 +46,7 @@ I don't just write code; I look for the story behind the data. I am passionate a
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" height="28" alt="Power BI" title="Power BI" />&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="28" alt="Tableau" title="Tableau" />&nbsp;
   <img src="https://cdn.simpleicons.org/matplotlib" height="28" alt="Matplotlib" title="Matplotlib" />&nbsp;
-  <img src="https://miro.medium.com/0*0ObKQQmRcgMdKrXp.png" height="28" alt="Seaborn" title="Seaborn" />
+  <img src="https://miro.medium.com/0*0ObKQQmRcgMdKrXp.png](https://upload.wikimedia.org/wikipedia/commons/4/45/Logo-seaborn.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="28" alt="Seaborn" title="Seaborn" />
 </p>
 
 ### Database Management

@@ -46,13 +46,14 @@ I don't just write code; I look for the story behind the data. I am passionate a
   <img src="https://1000logos.net/wp-content/uploads/2022/12/Power-BI-Logo.png" height="28" alt="Power BI" title="Power BI" />&nbsp;
   <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.jpg" height="28" alt="Tableau" title="Tableau" />&nbsp;
   <img src="https://cdn.simpleicons.org/matplotlib" height="28" alt="Matplotlib" title="Matplotlib" />&nbsp;
-  <img src="https://miro.medium.com/0*0ObKQQmRcgMdKrXp.png](https://upload.wikimedia.org/wikipedia/commons/4/45/Logo-seaborn.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="28" alt="Seaborn" title="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo-seaborn.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="28" alt="Seaborn" title="Seaborn" />
 </p>
 
 ### Database Management
 <p align="left">
   <img src="https://cdn.simpleicons.org/postgresql" height="28" alt="SQL (PostgreSQL)" title="SQL (PostgreSQL)" />&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mongodb" height="28" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apachecassandra" height="28" alt="Cassandra" title="Cassandra" />
 </p>
 
 ### Statistics & ML
@@ -74,6 +75,16 @@ I don't just write code; I look for the story behind the data. I am passionate a
 ### Big Data
 <p align="left">
   <img src="https://cdn.simpleicons.org/apachehadoop" height="28" alt="Hadoop" title="Hadoop" />&nbsp;
+  <img src="https://cdn.simpleicons.org/apachehive" height="28" alt="Hive" title="Hive" />&nbsp;
   <img src="https://cdn.simpleicons.org/apachespark" height="28" alt="Apache Spark" title="Apache Spark" />&nbsp;
   <img src="https://cdn.simpleicons.org/snowflake" height="28" alt="Snowflake" title="Snowflake" />
+</p>
+
+### Tools & Environments
+<p align="left">
+  <img src="https://cdn.simpleicons.org/jupyter" height="28" alt="Jupyter Notebook" title="Jupyter Notebook" />&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecolab" height="28" alt="Google Colab" title="Google Colab" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code" title="VS Code" />&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu" height="28" alt="Ubuntu" title="Ubuntu" />&nbsp;
+  <img src="https://cdn.simpleicons.org/virtualbox" height="28" alt="Oracle VirtualBox" title="Oracle VirtualBox" />
 </p>
